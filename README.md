@@ -20,3 +20,19 @@ and a button ‘Reset’ to set all textbox to “0”
 animals choosen. A button to write the choosen animals into the Textbox.
 
 6) I created a simple form. When you click on the button, the program have to write the choosen colour into the TextBox.
+
+7) I created a simple form with a combobox of 5 colours, and a textbox. When you select a
+colour, a message appears in the textbox: “The choosen colour is: colour”
+
+8) I created a simple form whith a listbox, two buttons and a textbox. When you click on
+‘Classroom 1’, all the students of classroom 1  charges into the listbox. The same
+for ‘Classroom 2’. The button ‘Clear List’ clears the listbox. When you click on some
+student, this student copies into the textbox.
+
+9) I created a simple form with a combobox, two buttons and a textbox. The button ‘Even(par)’
+insert even numbers to the combobox  and button ‘Odd(impar)’,
+insert odd numbers . When you click on a number in the list
+the value copies into the textbox.
+
+10) I created a simple form with a scrollbar. Moving the mouse over the scrollbar, the program
+writes de % of scrolling.
